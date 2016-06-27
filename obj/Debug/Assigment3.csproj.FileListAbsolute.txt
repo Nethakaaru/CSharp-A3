@@ -1,0 +1,9 @@
+c:\users\sebastian\documents\visual studio 2015\Projects\Assigment3\Assigment3\bin\Debug\Assigment3.exe.config
+c:\users\sebastian\documents\visual studio 2015\Projects\Assigment3\Assigment3\bin\Debug\Assigment3.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\Assigment3\Assigment3\bin\Debug\Assigment3.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\Assigment3\Assigment3\obj\Debug\Assigment3.MainForm.resources
+c:\users\sebastian\documents\visual studio 2015\Projects\Assigment3\Assigment3\obj\Debug\Assigment3.Properties.Resources.resources
+c:\users\sebastian\documents\visual studio 2015\Projects\Assigment3\Assigment3\obj\Debug\Assigment3.csproj.GenerateResource.Cache
+c:\users\sebastian\documents\visual studio 2015\Projects\Assigment3\Assigment3\obj\Debug\Assigment3.exe
+c:\users\sebastian\documents\visual studio 2015\Projects\Assigment3\Assigment3\obj\Debug\Assigment3.pdb
+c:\users\sebastian\documents\visual studio 2015\Projects\Assigment3\Assigment3\obj\Debug\Assigment3.csprojResolveAssemblyReference.cache
